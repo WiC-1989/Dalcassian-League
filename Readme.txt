@@ -22,6 +22,17 @@
 (___/    \___)(_______/ (_______/  \"_____/   \_______)(_____(     (_______)    \_______)(___/    \___)\___|\____\) \_______)     \__|   (_______/  v0.00    
                                                                                                                                                         
 
+v0.02 - Update
+- Removed placeholder graphics for blueprints
+- Adjusted OP values for all HERCs and ships
+- Adjusted Ajax nomount graphic
+- Removed converted hangar from Ajax class, modified graphic to make it a pure battleship
+- *new* ship class, "Ajax Refit" Battlecarrier
+- *new* ship class, "Mandela Refit" Carrier
+- *new* LPCs for Felis, Felis_W, Arise and Torus Wings
+- Minor adjustments to faction and nexerelin config settings and starting fleets
+
+
 v0.01 - Bugfix
 - Add SYSTEM hints and no_drop, no_drop_salvage to HERC built in weapons (re: arms)
 - Add asteroid belt to Dalcass system
